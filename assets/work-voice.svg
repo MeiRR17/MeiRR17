@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-label="Speech &amp; Language: Local-first media and intelligent workflows"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C152A"/><stop offset="1" stop-color="#283760"/></linearGradient><pattern id="lines" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity=".06" fill="none"/></pattern></defs>
+<rect x="0.5" y="0.5" width="599" height="239" rx="18" fill="url(#g)" stroke="#A6B8FF" stroke-opacity=".28"/><rect x="0" y="0" width="600" height="240" rx="18" fill="url(#lines)"/>
+<path d="M30 200H570" stroke="#EFF6FF" stroke-opacity=".18"/><rect x="30" y="28" width="7" height="7" rx="2" fill="#A6B8FF"/>
+<text x="49" y="36" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#A6B8FF">02  /  LANGUAGE TECHNOLOGY</text>
+<text x="30" y="106" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-.6" fill="#F8FBFF">Speech &amp; Language</text>
+<text x="30" y="140" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#CAD7E9">Local-first media and intelligent workflows</text>
+<text x="30" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.8" fill="#B0C0D6">EXPLORE THE PUBLIC REPOSITORY</text>
+<path d="M560 215H576M570 208L577 215L570 222" stroke="#A6B8FF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(419 106)" stroke="#A6B8FF" stroke-width="5" stroke-linecap="round"><path d="M0 0V28M18 -23V49M36 -42V67M54 -13V38M72 -53V78M90 -29V57M108 -6V31M126 -37V62M144 -16V41" /><path d="M-8 14H153" stroke="#A6B8FF" stroke-width="1.6" stroke-opacity=".25"/></g></svg>
