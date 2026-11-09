@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-labelledby="title desc">
-<title id="title">Research and engineering — Meir Dvir</title>
-<desc id="desc">Minimal editorial masthead in ivory and deep slate, for a research-focused software engineer.</desc>
-<rect x="0.5" y="0.5" width="1279" height="249" rx="8" fill="#F5F5F1" stroke="#D5DBDA"/>
-<rect x="0" y="0" width="12" height="250" fill="#213E48"/>
-<path d="M65 62H1215" stroke="#C5CECD" stroke-width="1.5"/>
-<text x="66" y="48" fill="#3C555A" font-size="16" letter-spacing="3.2" font-weight="700" font-family="Arial, Helvetica, sans-serif">RESEARCH  /  ENGINEERING  /  KNOWLEDGE</text>
-<text x="61" y="152" fill="#1B3039" font-size="82" letter-spacing="-1.8" font-family="Georgia, Times New Roman, serif">Meir Dvir</text>
-<path d="M65 183H1215" stroke="#BEC8C8" stroke-width="1.5"/>
-<text x="66" y="218" fill="#405860" font-size="19" letter-spacing=".2" font-family="Arial, Helvetica, sans-serif">Software &amp; data systems</text>
-<circle cx="329" cy="210" r="3" fill="#6B8584"/>
-<text x="344" y="218" fill="#405860" font-size="19" font-family="Arial, Helvetica, sans-serif">Applied AI</text>
-<circle cx="453" cy="210" r="3" fill="#6B8584"/>
-<text x="469" y="218" fill="#405860" font-size="19" font-family="Arial, Helvetica, sans-serif">Computational Jewish Studies</text>
-<g transform="translate(1077,116)" fill="none" stroke="#36545C" stroke-width="1.5" opacity=".7">
-<circle cx="0" cy="0" r="45"/><circle cx="65" cy="0" r="45"/><circle cx="32.5" cy="-45" r="45"/><path d="M-45 0H110M32.5 -90V45"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="226" viewBox="0 0 1200 226" role="img" aria-labelledby="title description">
+<title id="title">Meir Dvir — Software Engineering, Applied AI, Computational Jewish Studies</title>
+<desc id="description">Minimal monochrome professional masthead with a black background and clear white typography.</desc>
+<rect width="1200" height="226" fill="#101112"/>
+<text x="65" y="52" fill="#AEB0B3" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="2.4">RESEARCH  /  SOFTWARE ENGINEERING</text>
+<text x="61" y="138" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-1.7">Meir Dvir</text>
+<text x="65" y="188" fill="#D5D7D9" font-family="Arial, Helvetica, sans-serif" font-size="24">Applied AI  ·  Data Systems  ·  Computational Jewish Studies</text>
 </svg>
