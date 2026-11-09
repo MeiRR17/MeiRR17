@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title description">
+<title id="title">Conceptual research-to-systems diagram</title>
+<desc id="description">Three illustrated black panels connected by restrained blue arrows: source material with book and audio icons, AI and data analysis with a node network, and useful software with a system dashboard. This is a conceptual direction, not a completed product.</desc>
+<rect width="1200" height="270" fill="#0B0E13"/>
+<rect x=".7" y=".7" width="1198.6" height="268.6" fill="none" stroke="#253140" stroke-width="1.4"/>
+<g fill="#11161E" stroke="#374151" stroke-width="1.4">
+<rect x="24" y="24" width="352" height="208" rx="5"/>
+<rect x="424" y="24" width="352" height="208" rx="5"/>
+<rect x="824" y="24" width="352" height="208" rx="5"/>
+</g>
+<g fill="none" stroke="#F4F6F8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<!-- primary sources / open book -->
+<path d="M140 73C158 66 174 67 190 74V128C173 121 158 121 140 129Z"/>
+<path d="M190 74C207 67 225 66 242 73V129C223 121 206 121 190 128Z"/>
+<path d="M190 74V128"/>
+<path d="M153 89L175 92M153 103L175 106M204 92L227 89M204 106L227 103" stroke="#AEBAC7" stroke-width="2.3"/>
+<!-- artificial intelligence and data graph -->
+<path d="M540 98L586 73L632 98L632 145L586 170L540 145Z" stroke="#E8EEF6"/>
+<path d="M540 98L586 121L632 98M586 73V121M586 121V170M540 145L586 121L632 145" stroke="#4C85C1" stroke-width="2.4"/>
+<circle cx="540" cy="98" r="6" fill="#EDF3FC" stroke="none"/><circle cx="586" cy="73" r="6" fill="#EDF3FC" stroke="none"/><circle cx="632" cy="98" r="6" fill="#EDF3FC" stroke="none"/>
+<circle cx="586" cy="121" r="7" fill="#4C85C1" stroke="none"/><circle cx="540" cy="145" r="6" fill="#EDF3FC" stroke="none"/><circle cx="632" cy="145" r="6" fill="#EDF3FC" stroke="none"/><circle cx="586" cy="170" r="6" fill="#EDF3FC" stroke="none"/>
+<!-- software systems / layered display -->
+<rect x="941" y="67" width="118" height="85" rx="6"/>
+<path d="M941 91H1059M963 110H997M963 124H1014" stroke="#BCC9D9" stroke-width="2.5"/>
+<rect x="1021" y="107" width="20" height="28" rx="2" stroke="#4C85C1"/>
+<path d="M1000 152V169M970 169H1031" stroke="#EDF3FC"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<text x="200" y="186" fill="#FFFFFF" font-size="21" font-weight="700">Source material</text>
+<text x="200" y="209" fill="#B6C0CD" font-size="15">Text · Speech</text>
+<text x="600" y="191" fill="#FFFFFF" font-size="21" font-weight="700">AI &amp; Data</text>
+<text x="600" y="213" fill="#B6C0CD" font-size="15">Analysis · Retrieval</text>
+<text x="1000" y="186" fill="#FFFFFF" font-size="21" font-weight="700">Useful systems</text>
+<text x="1000" y="209" fill="#B6C0CD" font-size="15">Research · Learning</text>
+</g>
+<g fill="none" stroke="#4C85C1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M385 132H415M409 126L415 132L409 138"/>
+<path d="M785 132H815M809 126L815 132L809 138"/>
+</g>
+<text x="24" y="254" fill="#98A6B9" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing=".7">CONCEPTUAL DIRECTION · RESEARCH AND DEVELOPMENT</text>
+</svg>
