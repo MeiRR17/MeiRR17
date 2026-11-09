@@ -1,112 +1,90 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Meir — Build With Purpose. Software Engineering, Data Systems, Applied AI." />
-  
-  <br />
-  
-  <p><strong>Curious about complex problems. Intentional about the systems built to solve them.</strong></p>
-  <p>Exploring the space between software engineering, data, applied AI, and useful knowledge.</p>
-
-  <a href="#selected-work"><img src="https://img.shields.io/badge/Explore-Selected%20Work-16354E?style=for-the-badge&labelColor=0C182C" alt="Explore selected work" /></a>
-  <a href="#engineering-toolkit"><img src="https://img.shields.io/badge/Explore-Tech%20Stack-225B60?style=for-the-badge&labelColor=0C182C" alt="Explore technical toolkit" /></a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=MeiRR17&label=PROFILE+VIEWS&color=15B8A6&style=for-the-badge" alt="Live GitHub profile views counter" />
-  <img src="https://img.shields.io/github/followers/MeiRR17?label=FOLLOWERS&color=5578B5&labelColor=13253E&style=for-the-badge" alt="GitHub followers" />
+  <img src="./assets/hero.svg" alt="Meir Dvir — research, engineering and knowledge" width="100%" />
 </div>
-
----
-
-## A little about me
-
-I'm **Meir**, a developer with a research-minded approach to building practical technology.
-
-I enjoy connecting disciplines that are often treated separately: **reliable software**, **well-structured data**, **intelligent systems**, and **human learning**. My public repositories reflect experiments, learning resources, and software projects across these areas.
-
-I believe good engineering is more than making something work once. It means asking the right questions, making trade-offs visible, and building systems that remain understandable, testable, and useful over time.
-
-> **Long-term direction:** Help turn complex knowledge and emerging technology into trustworthy, accessible tools that support learning, discovery, and meaningful real-world work.
-
-## Selected work
-
-A few public projects that represent the kinds of questions and systems I like working on.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MeiRR17/data-engineering-mastery"><img src="./assets/work-data.svg" width="100%" alt="Data Engineering — original illustrated project card" /></a>
-      <h3><a href="https://github.com/MeiRR17/data-engineering-mastery">Data Engineering Mastery</a></h3>
-      <p>A hands-on learning pathway covering SQL, pipelines, orchestration, quality, reliability, and reproducible practice.</p>
-      <sub>DATA ENGINEERING · PYTHON · SQL · NOTEBOOKS</sub>
+    <td width="74%" valign="middle">
+      <h2>Software development, applied AI and interdisciplinary research</h2>
+      <p>I am <strong>Meir Dvir</strong>, a software developer and independent, research-oriented builder working across data systems, artificial intelligence and computational approaches to Jewish studies.</p>
+      <p>My interests centre on a practical question: <em>how can rigorous research, reliable software and responsible AI make complex knowledge more accessible and useful?</em></p>
+      <p><a href="#selected-public-projects">Public projects</a> &nbsp;·&nbsp; <a href="#research-interests">Research interests</a> &nbsp;·&nbsp; <a href="#engineering-practice">Engineering practice</a></p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MeiRR17/Kolmud-Studio"><img src="./assets/work-voice.svg" width="100%" alt="Speech and Language — original illustrated project card" /></a>
-      <h3><a href="https://github.com/MeiRR17/Kolmud-Studio">Kolmud Studio</a></h3>
-      <p>An experimental, local-first workflow connecting speech transcription, language processing, and educational media production.</p>
-      <sub>SPEECH TECHNOLOGY · LOCAL AI · PYTHON</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MeiRR17/DeepLearning"><img src="./assets/work-ml.svg" width="100%" alt="Research Prototypes — original illustrated project card" /></a>
-      <h3><a href="https://github.com/MeiRR17/DeepLearning">Applied Deep Learning</a></h3>
-      <p>An exploration of audio classification, feature engineering, model evaluation, and interpretable machine-learning experiments.</p>
-      <sub>PYTORCH · AUDIO ML · RESEARCH</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MeiRR17/Learning_Modules"><img src="./assets/work-learning.svg" width="100%" alt="Learning Systems — original illustrated project card" /></a>
-      <h3><a href="https://github.com/MeiRR17/Learning_Modules">Learning Modules</a></h3>
-      <p>A public hub for reusable programming lessons, reference material, exercises, and consolidated developer utilities.</p>
-      <sub>DEVELOPER EDUCATION · APIs · TOOLING</sub>
+    <td width="26%" align="right" valign="middle">
+      <img src="https://github.com/MeiRR17.png" alt="Meir Dvir's current GitHub profile image" width="172" />
     </td>
   </tr>
 </table>
 
-<sub>These links lead to public repositories. Some are learning-oriented, experimental, or actively evolving; their presence here is not a production-readiness claim.</sub>
+## Professional focus
 
-## How I think about building
+I develop and study systems that connect **software engineering**, **data engineering**, **applied machine learning**, and **knowledge-intensive disciplines**. A distinctive part of my work explores the intersection of **Jewish textual heritage, Hebrew language technology and AI** — including speech processing, textual alignment, classification and educational applications.
 
-<img src="./assets/principles.svg" width="100%" alt="Explore: ask better questions. Engineer: build with rigor. Share: create useful knowledge." />
+I value reproducible experiments, clear sources, explicit limitations, reliable implementation and thoughtful design. My public repositories include research prototypes, working developer tools, and structured technical learning resources. I distinguish exploratory work from production software.
 
-I gravitate toward work that combines:
+## Research interests
 
-- **System design & reliability** — clear architecture, observability, careful interfaces, and maintainable implementation.
-- **Data & applied intelligence** — turning raw information into validated, interpretable, useful results.
-- **Research & experimentation** — evidence-driven iteration, reproducible methods, and intellectual curiosity.
-- **Learning & knowledge access** — making difficult concepts more understandable and technology more empowering.
+<img src="./assets/research-landscape.svg" alt="Research landscape: Jewish texts, speech and audio, data systems, and knowledge tools" width="100%" />
 
-## Engineering toolkit
+**Computational Jewish studies and AI.** Applying computational methods to Hebrew texts and recorded traditions, with an interest in provenance, interpretation, retrieval, language structure and research evaluation.
+
+**Hebrew speech and language technology.** Exploring transcription, alignment, audio analysis and human-in-the-loop workflows for educational and research material.
+
+**Reliable data and intelligent systems.** Designing data pipelines and software services with validation, traceability, observability and maintainable interfaces.
+
+**Knowledge engineering and education.** Developing ways to structure, connect and communicate complex material without losing its context, sources or intellectual depth.
+
+## Selected public projects
+
+These repositories provide concrete examples of work in the areas above. Project maturity is stated where relevant.
+
+| Project | Work and scope |
+| :--- | :--- |
+| **[TaamAI](https://github.com/MeiRR17/TaamAI)** | A Python dataset-preparation pipeline that aligns Torah audio transcription with reference text and extracts cantillation-related training segments. |
+| **[Applied Deep Learning](https://github.com/MeiRR17/DeepLearning)** | A research proof of concept for classifying cantillation patterns using audio features, PyTorch and model-evaluation workflows. |
+| **[Kolmud Studio](https://github.com/MeiRR17/Kolmud-Studio)** | An **alpha-stage**, local-first speech and language workflow for transforming Hebrew learning material into accessible English outputs, with transcription and speech-synthesis components. |
+| **[Data Engineering Mastery](https://github.com/MeiRR17/data-engineering-mastery)** | A practical, 14-stage curriculum of SQL, Python, data pipelines, testing, orchestration, reliability, notebooks and a synthetic capstone. |
+| **[Learning Modules](https://github.com/MeiRR17/Learning_Modules)** | A curated public learning hub with developer exercises, API and container guides, and reusable utility modules. |
+| **[Video to Text](https://github.com/MeiRR17/Video_to_text)** | A Hebrew-focused video transcription workflow; selected portable scripts have since been consolidated into Learning Modules. |
+
+For additional experiments and source code, see **[all public repositories](https://github.com/MeiRR17?tab=repositories)**.
+
+## Engineering practice
+
+| Area | Technologies and methods represented in my work |
+| :--- | :--- |
+| Software and APIs | Python, Java, FastAPI, REST APIs, Git |
+| Data and persistence | SQL, PostgreSQL, SQLite, ETL/ELT concepts, validation |
+| Machine learning | PyTorch, speech processing, audio features, model evaluation |
+| Development workflow | Linux, Docker, GitHub Actions, tests, reproducible environments |
+| Research and learning | Jupyter notebooks, source alignment, structured documentation |
+
+Tools listed here appear in my public work and learning materials; the list is not intended as a claim of equal proficiency across every technology.
+
+## Longer-term direction
+
+I am interested in building **research-informed, evidence-aware technology** that connects primary sources, analytical methods, intelligent tools and practical applications.
+
+The broader ambition is interdisciplinary: systems that can support sustained research, responsible knowledge discovery, technical education and useful work across domains. I see AI as a method to extend careful human reasoning — not as a substitute for source criticism, expertise or accountability.
+
+This section describes a direction of work, not a claim that every envisioned capability has already been built.
+
+## Connect
+
+The most useful introduction to my work is the source itself: explore the [repositories](https://github.com/MeiRR17?tab=repositories), read the project documentation, and open an issue in a relevant public project if you have a technical question or collaboration proposal.
+
+---
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-1C3451?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1C5B58?style=flat-square&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334A68?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-28455E?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-644052?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-795B3E?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-245578?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-54424F?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333D57?style=flat-square&logo=githubactions&logoColor=white)
-![Java](https://img.shields.io/badge/Java-54445C?style=flat-square&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-34465C?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-354A50?style=flat-square&logo=gnubash&logoColor=white)
-
-</div>
-
-<sub>Tools and technologies encountered in the public projects and learning materials shown here; not a claim of expertise in every item.</sub>
-
-## Looking ahead
-
-I'm interested in the future of **responsible intelligent software**, **knowledge-rich systems**, and **interdisciplinary research**. My goal is to keep connecting ideas to implementation: learn deeply, build carefully, evaluate honestly, and share what proves useful.
-
-<div align="center">
+  <sub>GitHub profile activity</sub>
   <br />
-  <b>Build thoughtfully. Stay curious. Make knowledge useful.</b>
-  <br /><br />
-  <a href="https://github.com/MeiRR17?tab=repositories"><img src="https://img.shields.io/badge/Browse-Public%20Repositories-16354E?style=for-the-badge&labelColor=0C182C" alt="Browse public repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MeiRR17&label=PROFILE+VIEWS&color=395964&style=for-the-badge" alt="Profile badge load counter" />
+  <img src="https://img.shields.io/github/followers/MeiRR17?label=FOLLOWERS&color=395964&labelColor=263B44&style=for-the-badge" alt="GitHub followers" />
 </div>
 
-<!-- Visual assets are original, self-hosted SVG illustrations in ./assets/.
-     Profile-view counts are third-party badge request counts, not unique visitor analytics.
-     Only public, linked repositories are described; private work is deliberately excluded. -->
+<!-- Public profile policy:
+- Keep all claims linked to public work or clearly framed as interests and direction.
+- No details from private repositories, personal life, internal systems, academic affiliation, unpublished findings, or employment-sensitive projects.
+- The portrait image follows the account's current GitHub avatar; replace that avatar with a real professional headshot when available.
+- Komarev is a third-party image-load counter, not unique human visitor analytics.
+-->
