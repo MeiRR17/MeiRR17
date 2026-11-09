@@ -1,4 +1,4 @@
-<img src="./assets/hero.svg" alt="Meir Dvir — software engineering, applied AI and computational Jewish studies" width="100%" />
+<img src="./assets/hero-editorial-blue-v2.svg" alt="Meir Dvir — software engineering, applied AI and computational Jewish studies" width="100%" />
 
 **Software developer working across data engineering, applied AI, and computational Jewish studies.**
 
