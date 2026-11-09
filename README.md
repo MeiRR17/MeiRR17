@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=MeiRR17&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+
 <!--
 **MeiRR17/MeiRR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
