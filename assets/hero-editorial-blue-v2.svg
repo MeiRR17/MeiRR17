@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="268" viewBox="0 0 1200 268" role="img" aria-labelledby="title description">
+<title id="title">Meir Dvir — Software Engineering, Applied AI and Computational Jewish Studies</title>
+<desc id="description">Professional charcoal-black masthead with high-contrast white typography and restrained deep-blue editorial rules.</desc>
+<rect width="1200" height="268" fill="#0C1016"/>
+<rect x="0" y="0" width="8" height="268" fill="#2F5E8C"/>
+<text x="60" y="53" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.0" fill="#C6CDD5">SOFTWARE ENGINEERING  /  RESEARCH</text>
+<rect x="60" y="73" width="340" height="4" fill="#2F5E8C"/>
+<text x="54" y="164" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Meir Dvir</text>
+<text x="60" y="215" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#E7ECF2">Applied AI  ·  Data Systems  ·  Computational Jewish Studies</text>
+<line x1="60" y1="239" x2="1140" y2="239" stroke="#303A47" stroke-width="1"/>
+</svg>
