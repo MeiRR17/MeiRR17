@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title description">
+<title id="title">Meir: Software, Data and Intelligent Systems</title>
+<desc id="description">A dark blue editorial banner with a luminous abstract connected network, introducing Meir as a developer focused on thoughtful engineering and meaningful impact.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081329"/><stop offset=".57" stop-color="#101D37"/><stop offset="1" stop-color="#070E1D"/></linearGradient>
+ <radialGradient id="a"><stop stop-color="#42CFC5" stop-opacity=".25"/><stop offset="1" stop-color="#42CFC5" stop-opacity="0"/></radialGradient>
+ <radialGradient id="b"><stop stop-color="#6A83FF" stop-opacity=".20"/><stop offset="1" stop-color="#6A83FF" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#D9EAFE" stroke-opacity=".065" stroke-width=".8"/></pattern>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#75F0DD"/><stop offset="1" stop-color="#85A6FF"/></linearGradient>
+</defs>
+<rect width="1280" height="400" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="400" rx="22" fill="url(#grid)"/>
+<circle cx="1072" cy="175" r="286" fill="url(#a)"/><circle cx="825" cy="365" r="320" fill="url(#b)"/>
+<path d="M0 354H1280" stroke="#DDEAFF" stroke-opacity=".13"/>
+<rect x="66" y="44" width="40" height="40" rx="10" fill="#6BE3D4" fill-opacity=".12" stroke="#78EFE3" stroke-opacity=".65"/>
+<path d="M77 72V56L86 66L95 56V72" fill="none" stroke="#98FFF0" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="122" y="71" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" letter-spacing="3.3" fill="#B6CADF">MEIR  /  @MEIRR17</text>
+<text x="66" y="169" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="78" letter-spacing="-3" fill="#F5FAFF">BUILD WITH</text>
+<text x="66" y="242" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="78" letter-spacing="-3" fill="#8BFFF0">PURPOSE.</text>
+<text x="70" y="292" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="22" fill="#D1DFF0">Software engineering  /  Data systems  /  Applied AI</text>
+<circle cx="82" cy="375" r="4" fill="#69E4D7"/>
+<text x="99" y="381" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.7" fill="#A4BBD2">RESEARCH-MINDED. ENGINEERING-DRIVEN.</text>
+<g transform="translate(1020 186)">
+ <circle r="140" fill="none" stroke="#90B8E8" stroke-opacity=".22" stroke-width="1.4"/>
+ <circle r="103" fill="none" stroke="#93E5DC" stroke-opacity=".35" stroke-width="1.6"/>
+ <circle r="66" fill="none" stroke="#93E5DC" stroke-opacity=".55" stroke-width="1.4"/>
+ <circle r="28" fill="#2AD9CD" fill-opacity=".12" stroke="#7AFFEA" stroke-width="2"/>
+ <circle r="8" fill="#9EFFF2"/>
+ <path d="M-136 -28L-93 -98L-23 -65L79 -67L136 20L81 99L-20 123L-123 71Z" fill="none" stroke="url(#line)" stroke-opacity=".48" stroke-width="1.5"/>
+ <path d="M-123 71L-23 -65L81 99L-93 -98L79 -67L-20 123L136 20" fill="none" stroke="#8EC4FF" stroke-opacity=".34" stroke-width="1.4"/>
+ <g fill="#A2FFF1"><circle cx="-136" cy="-28" r="5"/><circle cx="-93" cy="-98" r="5"/><circle cx="-23" cy="-65" r="6"/><circle cx="79" cy="-67" r="5"/><circle cx="136" cy="20" r="5"/><circle cx="81" cy="99" r="6"/><circle cx="-20" cy="123" r="5"/><circle cx="-123" cy="71" r="5"/></g>
+ <path d="M-180 0H180M0 -177V177" stroke="#F5FAFF" stroke-opacity=".12" stroke-dasharray="3 8"/>
+</g>
+</svg>
