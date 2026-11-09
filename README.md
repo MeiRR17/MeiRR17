@@ -37,7 +37,7 @@ I prioritise understandable architecture, reproducible workflows, explicit limit
 
 For technical questions or collaboration proposals, please use the issue tracker of the relevant [public repository](https://github.com/MeiRR17?tab=repositories).
 
-<sub><img src="https://komarev.com/ghpvc/?username=MeiRR17&label=profile+views&color=404040&style=flat-square" alt="Profile views counter" /></sub>
+<sub><img src="https://komarev.com/ghpvc/?username=MeiRR17&label=PROFILE+VIEWS&color=284F7A&style=flat-square" alt="Profile views counter" /></sub>
 
 <!-- The GitHub account avatar is the primary portrait; this README deliberately avoids duplicating it.
      Featured projects are public. Private systems and personal plans are not disclosed.
