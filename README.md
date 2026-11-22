@@ -15,4 +15,6 @@
 
 <sub>These repositories include research prototypes, educational material, and developer tools at different stages of maturity. Check each repository's README and releases for its current status. The diagram above illustrates a direction of work, not a deployed system.</sub>
 
+<sub>Maintainer utility: [read-only featured-project audit](./docs/PORTFOLIO_AUDIT.md). It checks current public repository visibility and local image links on explicit request; it does not change this profile automatically or claim that a pushed repository is production-ready.</sub>
+
 <sub><img src="https://komarev.com/ghpvc/?username=MeiRR17&label=profile+views&color=2E5D91&style=flat-square" alt="Profile view counter" /></sub>
